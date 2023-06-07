@@ -1,0 +1,7 @@
+http:
+  port: "8081"
+ 
+sfdc:
+  username: "khaid@smartosc.com"
+  password: "Bichngoc284"
+  token: "YOvTfFLyEqeMX219WaKe0HRjo"
